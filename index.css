@@ -30,7 +30,7 @@ body{
 }
 
 .headword{
-    /* border: 1px solid red; */
+    
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -41,7 +41,7 @@ body{
 }
 
 .slogan{
-    /* border: 1px solid red; */
+
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -52,7 +52,7 @@ body{
 }
 
 .fotos{
-    /* border: 1px solid red; */
+
     max-width: 1000px;
     width: 80%;
     margin: 0 auto;
