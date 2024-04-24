@@ -14,7 +14,7 @@ body{
 .container{
     max-width: 1000px;
     background-color: #f4f4f4;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 80%;
     margin: 0 auto;
 
@@ -30,7 +30,7 @@ body{
 }
 
 .headword{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -41,7 +41,7 @@ body{
 }
 
 .slogan{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     align-items: center;
     flex-wrap: wrap;
