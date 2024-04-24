@@ -25,7 +25,7 @@ body{
     justify-content: space-between;
     padding: 11px 0px;
     align-items: center;
-    justify-content: center;
+    /* justify-content: center; */
     flex-wrap: wrap;
 }
 
@@ -35,9 +35,9 @@ body{
     align-items: center;
     flex-wrap: wrap;
     width: 300px;
-    margin: 2rem 0 2rem 2rem;
+    margin: 2rem 0 2rem 10rem;
     justify-content: left;
-    /* flex-grow: 2; */
+    flex-grow: 2;
 }
 
 .slogan{
@@ -45,10 +45,11 @@ body{
     display: flex;
     align-items: center;
     flex-wrap: wrap;
+    width: 350px;
     max-width: 600px;
     margin:0 2rem;
     justify-content: left;
-    /* flex-grow: 2; */
+    flex-grow: 2;
 }
 
 .fotos{
